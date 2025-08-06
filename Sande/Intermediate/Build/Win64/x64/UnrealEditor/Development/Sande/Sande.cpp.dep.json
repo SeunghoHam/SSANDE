@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengineproject\\ssande\\sande\\source\\sande\\sande.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengineproject\\ssande\\sande\\intermediate\\build\\win64\\x64\\sandeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealengineproject\\ssande\\sande\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sande\\definitions.sande.h",
+            "c:\\unrealengineproject\\ssande\\sande\\source\\sande\\sande.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
