@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealEngineProject\\SSANDE\\Sande\\Source\\Sande\\Sande.Build.cs",
+		"C:\\UnrealEngineProject\\SSANDE\\Sande\\Source\\Sande.Target.cs",
+		"C:\\UnrealEngineProject\\SSANDE\\Sande\\Source\\SandeEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
