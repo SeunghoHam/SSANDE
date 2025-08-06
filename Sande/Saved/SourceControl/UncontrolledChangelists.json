@@ -5,10 +5,34 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/J6/7TOHFUPK051NDHVLA2QNEI.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/Ham/TetsMap.umap",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/Ham/HamMap.umap",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/IMC_Player.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/Mouse(Move)/IA_SetDestination_Click.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_Q.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_W.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_E.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_Space.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/Ham/Components/AC_ShowRange.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/Mouse(Move)/IA_LeftMouse.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_LeftMouse.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_RightMose.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/Ham/Components/AC_ArcMoveComponent.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/Mouse(Move)/IA_ML.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/TopDown/Input/Actions/Mouse(Move)/IA_MouseLeft.uasset",
+				"C:/UnrealEngineProject/SSANDE/Sande/Content/Ham/Components/AC_Range.uasset",
 				"E:/Ham/SSANDE/Sande/Content/test/M_CrackCircle_03.uasset",
 				"E:/Ham/SSANDE/Sande/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/OK/GIZQ75F11GUQJMTPC94WPJ.uasset",
-				"E:/Ham/SSANDE/Sande/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/J6/7TOHFUPK051NDHVLA2QNEI.uasset",
-				"C:/UnrealEngineProject/SSANDE/Sande/Content/StarterContent/Audio/Collapse01.uasset"
+				"E:/Ham/SSANDE/Sande/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/J6/7TOHFUPK051NDHVLA2QNEI.uasset"
 			]
 		}
 	]
